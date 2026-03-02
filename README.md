@@ -15,6 +15,7 @@
 - Диаграмма вариантов использования (Use Case Diagram)
 - Диаграмма активности (Activity Diagram)
 - Диаграмма классов (Class Diagram)
+- Диаграмма развертывания (Deployment Diagram)
 - Диаграмма состояний (State Diagram)
 - Диаграмма последовательностей (Sequence Diagram)
 
